@@ -14,13 +14,6 @@ converter = UnitConverter()
 print(converter.convert(100, "cm", "inch"))  # 39.3701
 ```
 
-## Project Structure
-
-- `unit_converter.py`: main code  
-- `README.md`: project description
-
----
-
 ## Supported Units and Conversions
 
 | From Unit  | To Unit    | Example                |
@@ -35,7 +28,7 @@ print(converter.convert(100, "cm", "inch"))  # 39.3701
 | f (Fahrenheit) | c (Celsius) | 32 f → 0 c          |
 
 
-## Downloade: 
+## Download: 
 ```git
 git clone https://github.com/hu-matin/unit-converter.git
 cd unit-converter
