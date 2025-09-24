@@ -35,7 +35,3 @@ cd unit-converter
 python unit_converter.py
 ```
 
-## License
-
-MIT License
-
