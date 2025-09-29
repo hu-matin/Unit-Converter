@@ -29,7 +29,7 @@ print(converter.convert(100, "cm", "inch"))  # 39.3701
 | f (Fahrenheit) | c (Celsius) | 32 f → 0 c          |
 
 
-## Download: 
+## Download:
 ```git
 git clone https://github.com/hu-matin/unit-converter.git
 cd unit-converter
