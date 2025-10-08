@@ -31,7 +31,7 @@ print(converter.convert(100, "cm", "inch"))  # 39.3701
 
 ## Download:
 ```git
-git clone https://github.com/hu-matin/unit-converter.git
+git clone https://github.com/hu-matin/Unit-Converter.git
 cd unit-converter
 python unit_converter.py
 ```
