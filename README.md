@@ -25,8 +25,8 @@ print(converter.convert(100, "cm", "inch"))  # 39.3701
 | ft         | m          | 10 ft → 3.048 m        |
 | kg         | lb         | 70 kg → 154.324 lb     |
 | lb         | kg         | 150 lb → 68.0389 kg    |
-| c (Celsius)| f (Fahrenheit) | 100 c → 212 f       |
-| f (Fahrenheit) | c (Celsius) | 32 f → 0 c          |
+| c (Celsius)| f (Fahrenheit) | 100 c → 212 f      |
+| f (Fahrenheit) | c (Celsius) | 32 f → 0 c        |
 
 
 ## Download:
