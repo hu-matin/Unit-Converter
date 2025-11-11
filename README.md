@@ -5,7 +5,7 @@ A simple Python program for converting common units of length, weight, and tempe
 ## Usage
 
 Run the script and call `convert(value, from_unit, to_unit)` method.
-
+</br>
 
 **Example:**
 ```python
